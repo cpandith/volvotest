@@ -3,9 +3,9 @@ WebDriverIO
 
 Prerequisite
 -----------------
--Docker is Insatlled
--NodeJS is Installed
--Yarn is Installed
+*Docker is Insatlled
+*NodeJS is Installed
+*Yarn is Installed
 
 On First Clone, Run:
 ```
